@@ -1,0 +1,501 @@
+---
+section1:
+  type: text
+  css:
+    left: 0in
+    top: 0in
+    zIndex: 3
+section2:
+  type: text
+  css:
+    left: 0in
+    top: 2.8in
+    zIndex: 3
+sectionLeft1:
+  type: text
+  css:
+    left: 0.26in
+    top: 2.9in
+    zIndex: 3
+    position: absolute
+    width: 5in
+    height: 4.5in
+    marginTop: 1px
+    marginBottom: 1px
+    marginLeft: 1px
+    marginRight: 1px
+    border: 3px solid brown
+leftSec1Text:
+  type: text
+  css:
+    left: 0.26in
+    top: 3.7in
+    zIndex: 3
+    position: absolute
+    WebkitColumns: 40px 2
+    columnGap: 12px
+    textAlign: Justify
+    paddingLeft: 10px
+    paddingRight: 10px
+    paddingTop: 10px
+    paddingbuttom: 10px
+    lineHeight: " 0.9"
+    fontSize: 20px
+    fontFamily: times-new-roman
+    color: black
+    width: 4.8in
+    height: 3.6in
+leftSec1Header:
+  type: text
+  css:
+    left: 0.26in
+    top: 2.9in
+    zIndex: 3
+    position: absolute
+    paddingLeft: 10px
+    textAlign: center
+    paddingRight: 10px
+    paddingTop: 10px
+    paddingbuttom: 10px
+    lineHeight: " 0.9"
+    fontSize: 25px
+    fontFamily: times-new-roman-bold
+    color: Blue
+    width: 4.8in
+    height: 0.8in
+sectionLeft2:
+  type: text
+  css:
+    left: 0.26in
+    top: 7.55in
+    zIndex: 3
+    position: absolute
+    width: 5in
+    height: 2in
+    marginTop: 1px
+    marginBottom: 1px
+    marginLeft: 1px
+    marginRight: 1px
+    border: 3px solid brown
+    borderRadius: 15px
+leftSec2Header:
+  type: text
+  css:
+    left: 0.3in
+    top: 7.66in
+    zIndex: 3
+    position: absolute
+    textAlign: center
+    width: 5in
+    height: 0.3in
+    lineHeight: '1'
+    fontSize: 20px
+    fontFamily: times-new-roman-bold
+    color: Brown
+leftSec2Text:
+  type: text
+  css:
+    left: 0.3in
+    top: 8in
+    zIndex: 3
+    position: absolute
+    textAlign: center
+    width: 5in
+    height: 1in
+    lineHeight: '1'
+    fontSize: 20px
+    fontFamily: times-new-roman
+    color: Black
+leftSec2Footer:
+  type: text
+  css:
+    left: 0.26in
+    top: 9.2in
+    zIndex: 3
+    position: absolute
+    textAlign: center
+    width: 5in
+    height: 0.3in
+    lineHeight: '1'
+    fontSize: 20px
+    fontFamily: times-new-roman-bold
+    color: Black
+sectionLeft3:
+  type: text
+  css:
+    left: 0.26in
+    top: 9.7in
+    zIndex: 3
+    position: absolute
+    width: 2.45in
+    height: 2in
+    marginTop: 1px
+    marginBottom: 1px
+    marginLeft: 1px
+    marginRight: 1px
+    border: 3px solid brown
+leftSec3Header:
+  type: text
+  css:
+    left: 0.26in
+    top: 9.8in
+    zIndex: 3
+    position: absolute
+    textAlign: center
+    width: 2.4in
+    height: 0.7in
+    lineHeight: '1'
+    fontSize: 20px
+    fontFamily: times-new-roman-bold
+    color: Brown
+leftSec3Text:
+  type: text
+  css:
+    left: 0.3in
+    top: 10.5in
+    zIndex: 3
+    position: absolute
+    textAlign: center
+    width: 2.4in
+    height: 1in
+    lineHeight: '1'
+    fontSize: 20px
+    fontFamily: times-new-roman
+    color: Black
+leftSec3Footer:
+  type: text
+  css:
+    left: 0.26in
+    top: 11.4in
+    zIndex: 3
+    position: absolute
+    textAlign: center
+    width: 2.4in
+    height: 0.3in
+    lineHeight: '1'
+    fontSize: 20px
+    fontFamily: times-new-roman-bold
+    color: Black
+sectionLeft4:
+  type: text
+  css:
+    left: 2.85in
+    top: 9.7in
+    zIndex: 3
+    position: absolute
+    width: 2.45in
+    height: 2in
+    marginTop: 1px
+    marginBottom: 1px
+    marginLeft: 1px
+    marginRight: 1px
+    border: 3px solid brown
+leftSec4Header:
+  type: text
+  css:
+    left: 2.92in
+    top: 9.8in
+    zIndex: 3
+    position: absolute
+    textAlign: center
+    width: 2.4in
+    height: 0.3in
+    lineHeight: '1'
+    fontSize: 20px
+    fontFamily: times-new-roman-bold
+    color: Brown
+leftSec4Text1:
+  type: text
+  css:
+    left: 2.92in
+    top: 10in
+    zIndex: 3
+    position: absolute
+    textAlign: center
+    width: 2.4in
+    height: 0.5in
+    lineHeight: '1'
+    fontSize: 20px
+    fontFamily: times-new-roman
+    color: Brown
+leftSec4Text2:
+  type: text
+  css:
+    left: 2.92in
+    top: 10.5in
+    zIndex: 3
+    position: absolute
+    textAlign: center
+    width: 2.4in
+    height: 0.5in
+    lineHeight: '1'
+    fontSize: 20px
+    fontFamily: times-new-roman
+    color: Black
+leftSec4Footer:
+  type: text
+  css:
+    left: 2.92in
+    top: 11.4in
+    zIndex: 3
+    position: absolute
+    textAlign: center
+    width: 2.4in
+    height: 0.3in
+    lineHeight: '1'
+    fontSize: 20px
+    fontFamily: times-new-roman-bold
+    color: Black
+sectionRight1:
+  type: text
+  css:
+    left: 5.5in
+    top: 2.9in
+    zIndex: 3
+    position: absolute
+    width: 2.5in
+    height: 2in
+    marginTop: 1px
+    marginBottom: 1px
+    marginLeft: 1px
+    marginRight: 1px
+    border: 3px solid brown
+rightSec1Header1:
+  type: text
+  css:
+    left: 5.54in
+    top: 3in
+    zIndex: 3
+    position: absolute
+    textAlign: center
+    width: 2.4in
+    height: 0.3in
+    lineHeight: '1'
+    fontSize: 24px
+    fontFamily: times-new-roman-bold
+    color: Brown
+rightSec1Header2:
+  type: text
+  css:
+    left: 5.54in
+    top: 3.25in
+    zIndex: 3
+    position: absolute
+    textAlign: center
+    width: 2.4in
+    height: 0.5in
+    lineHeight: '1'
+    fontSize: 22px
+    fontFamily: times-new-roman-bold
+    color: Brown
+rightSec1Text:
+  type: text
+  css:
+    left: 5.54in
+    top: 3.8in
+    zIndex: 3
+    position: absolute
+    textAlign: center
+    width: 2.4in
+    height: 0.8in
+    lineHeight: '1'
+    fontSize: 20px
+    fontFamily: times-new-roman
+    color: Black
+rightSec1Footer:
+  type: text
+  css:
+    left: 5.54in
+    top: 4.6in
+    zIndex: 3
+    position: absolute
+    textAlign: center
+    width: 2.4in
+    height: 0.3in
+    lineHeight: '1'
+    fontSize: 20px
+    fontFamily: times-new-roman-bold
+    color: Black
+rightSec2Header:
+  type: text
+  css:
+    left: 5.54in
+    top: 5in
+    zIndex: 3
+    position: absolute
+    textAlign: center
+    width: 2.5in
+    height: 1.5in
+    lineHeight: '1'
+    fontSize: 37px
+    fontFamily: times-new-roman-bold
+    color: Blue
+rightSec2Text:
+  type: text
+  css:
+    left: 5.54in
+    top: 6.6in
+    zIndex: 3
+    position: absolute
+    textAlign: Justify
+    width: 2.5in
+    height: 4.8in
+    lineHeight: '1'
+    fontSize: 20px
+    fontFamily: times-new-roman
+    color: Black
+image1:
+  type: img
+  css:
+    left: 0.3in
+    top: 0.2in
+    zIndex: 2
+image2:
+  type: img
+  css:
+    left: 0.5in
+    top: 2.03in
+    zIndex: 2
+image3:
+  type: img
+  css:
+    left: 2.3in
+    top: 0.6in
+    width: 6in
+    height: 0.67in
+    zIndex: 2
+sec1line1:
+  type: text
+  css:
+    left: 2.4in
+    top: 0.3in
+    color: brown
+    zIndex: 6
+sec1line2:
+  type: text
+  css:
+    left: 2.4in
+    top: 1.3in
+    color: green
+    zIndex: 6
+sec1line3:
+  type: text
+  css:
+    left: 2.4in
+    top: 1.75in
+    color: white
+    zIndex: 6
+column1:
+  type: text
+  css:
+    left: 2.4in
+    top: 2.15in
+    zIndex: 3
+    position: absolute
+    width: 1.6in
+    height: 0.5in
+    border: 2px solid black
+column2:
+  type: text
+  css:
+    position: absolute
+    left: 4in
+    top: 2.15in
+    zIndex: 3
+    width: 2.2in
+    height: 0.5in
+    border: 2px solid black
+column3:
+  type: text
+  css:
+    left: 6.2in
+    top: 2.15in
+    zIndex: 3
+    position: absolute
+    width: 1.93in
+    height: 0.5in
+    border: 2px solid black
+tableHeading1:
+  type: text
+  css:
+    position: absolute
+    left: 2.4in
+    top: 2.2in
+    width: 1.6in
+    height: 0.25in
+    zIndex: 3
+    textAlign: center
+    lineHeight: '1'
+    fontSize: 20px
+    fontFamily: arial
+    color: Black
+tableHeading2:
+  type: text
+  css:
+    position: absolute
+    left: 4in
+    top: 2.2in
+    width: 1.93in
+    height: 0.25in
+    zIndex: 3
+    textAlign: center
+    lineHeight: '1'
+    fontSize: 20px
+    fontFamily: arial
+    color: Black
+tableHeading3:
+  type: text
+  css:
+    position: absolute
+    left: 6.2in
+    top: 2.2in
+    width: 1.93in
+    height: 0.25in
+    zIndex: 3
+    textAlign: center
+    lineHeight: '1'
+    fontSize: 20px
+    fontFamily: arial
+    color: Black
+tableData1:
+  type: text
+  css:
+    position: absolute
+    left: 2.4in
+    top: 2.45in
+    width: 1.6in
+    height: 0.25in
+    zIndex: 3
+    textAlign: center
+    lineHeight: '1'
+    fontSize: 16px
+    fontFamily: arial
+    color: Brown
+tableData2:
+  type: text
+  css:
+    position: absolute
+    left: 4in
+    top: 2.45in
+    width: 2.2in
+    height: 0.25in
+    zIndex: 3
+    textAlign: center
+    lineHeight: '1'
+    fontSize: 15.2px
+    fontFamily: arial
+    color: Brown
+tableData3:
+  type: text
+  css:
+    position: absolute
+    left: 6.2in
+    top: 2.45in
+    width: 1.93in
+    height: 0.25in
+    zIndex: 3
+    textAlign: center
+    lineHeight: '1'
+    fontSize: 15.2px
+    fontFamily: arial
+    color: Brown

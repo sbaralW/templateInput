@@ -1,0 +1,121 @@
+html {
+  overflow: auto;
+}
+
+body {
+  width: 8.5in;
+  height: 11in;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+@font-face {
+  font-family: 'arial';
+  font-style: normal;
+  vertical-align: middle;
+  src: url('../font/arial.ttf');
+}
+@font-face {
+  font-family: 'arialBoldItalic';
+  font-style: normal;
+  vertical-align: middle;
+  src: url('../font/arialbi.ttf');
+}
+@font-face {
+  font-family: 'times-new-roman-bold-italic';
+  font-style: normal;
+  vertical-align: middle;
+  src: url('../font/times-new-roman-bold-italic-2.ttf');
+}
+@font-face {
+  font-family: 'times-new-roman-italic';
+  font-style: normal;
+  vertical-align: middle;
+  src: url('../font/times-new-roman-italic.ttf');
+}
+@font-face {
+  font-family: 'times-new-roman-bold';
+  font-style: normal;
+  vertical-align: middle;
+  src: url('../font/times-new-roman-bold.otf');
+}
+#section1{
+  position: absolute;
+  width: 8in;
+  height: 2.5in;
+  margin-top:15px;
+  margin-bottom: 1px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 5px solid brown;
+}
+#section2{
+  position: absolute;
+  width: 8in;
+  height: 9in;
+  margin-top:1px;
+  margin-bottom: 1px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 3px solid black;
+}
+
+#sec1line1{
+  position: absolute;
+  text-align: center;
+  width: 5.8in;
+  height: 0.4in; 
+  font-family: 'arialBoldItalic';
+  font-size: 28px;
+
+}
+#sec1line2{
+  position: absolute;
+  text-align: center;
+  width: 5.8in;
+  height: 0.4in; 
+  font-family: 'times-new-roman-bold-italic';
+  font-size: 28px;
+}
+#sec1line3{
+  position: absolute;
+  text-align: center;
+  width: 5.8in;
+  height: 0.35in; 
+  font-family: 'times-new-roman-italic';
+  font-size: 28px;
+  background-color: brown;
+}
+.container {
+  width: 100%;
+  margin: auto;
+  background-color: #ddd;
+  display: grid;
+  grid-gap: 30px;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+}
+
+
+
+#image1 {
+  position: absolute;
+  width: 1.8in;
+  height: 1.8in;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#image2 {
+  position: absolute;
+  width: 1.38in;
+  height: 0.66in;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#image3 {
+  position: absolute;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
