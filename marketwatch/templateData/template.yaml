@@ -4,12 +4,28 @@ section1:
   css:
     left: 0in
     top: 0in
+    position: absolute
+    width: 8in
+    height: 2.5in
+    marginTop: 15px
+    marginBottom: 1px
+    marginLeft: 20px
+    marginRight: 20px
+    border: 5px solid brown
     zIndex: 3
 section2:
   type: text
   css:
     left: 0in
     top: 2.8in
+    position: absolute
+    width: 8in
+    height: 9in
+    marginTop: 1px
+    marginBottom: 1px
+    marginLeft: 20px
+    marginRight: 20px
+    border: 3px solid black
     zIndex: 3
 sectionLeft1:
   type: text
@@ -39,11 +55,11 @@ leftSec1Text:
     paddingRight: 10px
     paddingTop: 10px
     paddingbuttom: 10px
-    lineHeight: " 0.9"
-    fontSize: 20px
+    lineHeight: "1.04"
+    fontSize: 16.4px
     fontFamily: times-new-roman
     color: black
-    width: 4.8in
+    width: 4.87in
     height: 3.6in
 leftSec1Header:
   type: text
@@ -60,7 +76,7 @@ leftSec1Header:
     lineHeight: " 0.9"
     fontSize: 25px
     fontFamily: times-new-roman-bold
-    color: Blue
+    color: '#003366'
     width: 4.8in
     height: 0.8in
 sectionLeft2:
@@ -71,18 +87,18 @@ sectionLeft2:
     zIndex: 3
     position: absolute
     width: 5in
-    height: 2in
+    height: 2.2in
     marginTop: 1px
     marginBottom: 1px
     marginLeft: 1px
     marginRight: 1px
-    border: 3px solid brown
-    borderRadius: 15px
+    border: '3px solid #003366'
+    borderRadius: 25px
 leftSec2Header:
   type: text
   css:
     left: 0.3in
-    top: 7.66in
+    top: 7.75in
     zIndex: 3
     position: absolute
     textAlign: center
@@ -101,21 +117,21 @@ leftSec2Text:
     position: absolute
     textAlign: center
     width: 5in
-    height: 1in
-    lineHeight: '1'
-    fontSize: 20px
+    height: 1.45in
+    lineHeight: '1.03'
+    fontSize: 17.5px
     fontFamily: times-new-roman
     color: Black
 leftSec2Footer:
   type: text
   css:
     left: 0.26in
-    top: 9.2in
+    top: 9.54in
     zIndex: 3
     position: absolute
     textAlign: center
     width: 5in
-    height: 0.3in
+    height: 0.25in
     lineHeight: '1'
     fontSize: 20px
     fontFamily: times-new-roman-bold
@@ -124,21 +140,21 @@ sectionLeft3:
   type: text
   css:
     left: 0.26in
-    top: 9.7in
+    top: 9.9in
     zIndex: 3
     position: absolute
     width: 2.45in
-    height: 2in
+    height: 1.8in
     marginTop: 1px
     marginBottom: 1px
     marginLeft: 1px
     marginRight: 1px
-    border: 3px solid brown
+    border: '3px solid #003366'
 leftSec3Header:
   type: text
   css:
     left: 0.26in
-    top: 9.8in
+    top: 10in
     zIndex: 3
     position: absolute
     textAlign: center
@@ -152,21 +168,20 @@ leftSec3Text:
   type: text
   css:
     left: 0.3in
-    top: 10.5in
+    top: 10.7in
     zIndex: 3
     position: absolute
     textAlign: center
     width: 2.4in
     height: 1in
-    lineHeight: '1'
-    fontSize: 20px
+    fontSize: 17px
     fontFamily: times-new-roman
     color: Black
 leftSec3Footer:
   type: text
   css:
     left: 0.26in
-    top: 11.4in
+    top: 11.5in
     zIndex: 3
     position: absolute
     textAlign: center
@@ -180,21 +195,21 @@ sectionLeft4:
   type: text
   css:
     left: 2.85in
-    top: 9.7in
+    top: 9.9in
     zIndex: 3
     position: absolute
     width: 2.45in
-    height: 2in
+    height: 1.8in
     marginTop: 1px
     marginBottom: 1px
     marginLeft: 1px
     marginRight: 1px
-    border: 3px solid brown
+    border: '3px solid #003366'
 leftSec4Header:
   type: text
   css:
     left: 2.92in
-    top: 9.8in
+    top: 10in
     zIndex: 3
     position: absolute
     textAlign: center
@@ -204,39 +219,24 @@ leftSec4Header:
     fontSize: 20px
     fontFamily: times-new-roman-bold
     color: Brown
-leftSec4Text1:
+leftSec4Text:
   type: text
   css:
     left: 2.92in
-    top: 10in
+    top: 10.25in
     zIndex: 3
     position: absolute
     textAlign: center
     width: 2.4in
-    height: 0.5in
-    lineHeight: '1'
-    fontSize: 20px
-    fontFamily: times-new-roman
-    color: Brown
-leftSec4Text2:
-  type: text
-  css:
-    left: 2.92in
-    top: 10.5in
-    zIndex: 3
-    position: absolute
-    textAlign: center
-    width: 2.4in
-    height: 0.5in
-    lineHeight: '1'
-    fontSize: 20px
+    height: 1.1in
+    fontSize: 17px
     fontFamily: times-new-roman
     color: Black
 leftSec4Footer:
   type: text
   css:
     left: 2.92in
-    top: 11.4in
+    top: 11.5in
     zIndex: 3
     position: absolute
     textAlign: center
@@ -259,7 +259,7 @@ sectionRight1:
     marginBottom: 1px
     marginLeft: 1px
     marginRight: 1px
-    border: 3px solid brown
+    border: '3px solid #003366'
 rightSec1Header1:
   type: text
   css:
@@ -284,8 +284,8 @@ rightSec1Header2:
     textAlign: center
     width: 2.4in
     height: 0.5in
-    lineHeight: '1'
     fontSize: 22px
+    lineHeight: '1'
     fontFamily: times-new-roman-bold
     color: Brown
 rightSec1Text:
@@ -299,7 +299,7 @@ rightSec1Text:
     width: 2.4in
     height: 0.8in
     lineHeight: '1'
-    fontSize: 20px
+    fontSize: 18px
     fontFamily: times-new-roman
     color: Black
 rightSec1Footer:
@@ -329,7 +329,7 @@ rightSec2Header:
     lineHeight: '1'
     fontSize: 37px
     fontFamily: times-new-roman-bold
-    color: Blue
+    color: '#003366'
 rightSec2Text:
   type: text
   css:
@@ -341,7 +341,7 @@ rightSec2Text:
     width: 2.5in
     height: 4.8in
     lineHeight: '1'
-    fontSize: 20px
+    fontSize: 17.5px
     fontFamily: times-new-roman
     color: Black
 image1:
@@ -349,12 +349,22 @@ image1:
   css:
     left: 0.3in
     top: 0.2in
+    position: absolute
+    width: 1.8in
+    height: 1.8in
+    backgroundRepeat: no-repeat
+    backgroundSize: cover
     zIndex: 2
 image2:
   type: img
   css:
     left: 0.5in
     top: 2.03in
+    position: absolute
+    width: 1.38in
+    height: 0.66in
+    backgroundRepeat: no-repeat
+    backgroundSize: cover
     zIndex: 2
 image3:
   type: img
@@ -363,6 +373,9 @@ image3:
     top: 0.6in
     width: 6in
     height: 0.67in
+    position: absolute
+    backgroundRepeat: no-repeat
+    backgroundSize: cover
     zIndex: 2
 sec1line1:
   type: text
@@ -370,6 +383,12 @@ sec1line1:
     left: 2.4in
     top: 0.3in
     color: brown
+    position: absolute
+    textAlign: center
+    width: 5.8in
+    height: 0.4in 
+    fontFamily: 'arialBoldItalic'
+    fontSize: 28px
     zIndex: 6
 sec1line2:
   type: text
@@ -377,6 +396,12 @@ sec1line2:
     left: 2.4in
     top: 1.3in
     color: green
+    position: absolute
+    textAlign: center
+    width: 5.8in
+    height: 0.4in 
+    fontFamily: 'times-new-roman-bold-italic'
+    fontSize: 28px
     zIndex: 6
 sec1line3:
   type: text
@@ -384,6 +409,13 @@ sec1line3:
     left: 2.4in
     top: 1.75in
     color: white
+    position: absolute
+    textAlign: center
+    width: 5.8in
+    height: 0.35in 
+    fontFamily: 'times-new-roman-italic'
+    fontSize: 28px
+    backgroundColor: brown
     zIndex: 6
 column1:
   type: text
