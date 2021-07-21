@@ -42,3 +42,9 @@ p {
   vertical-align: middle;
   src: url('../font/times-new-roman-bold.otf');
 }
+@font-face {
+  font-family: 'times-new-roman';
+  font-style: normal;
+  vertical-align: middle;
+  src: url('../font/times-new-roman.ttf');
+}
