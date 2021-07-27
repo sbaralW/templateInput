@@ -1,17 +1,14 @@
-html {
-  overflow: auto;
-}
 body {
   width: 8.5in;
   height: 11in;
   margin: 0;
   padding: 0;
-  overflow: hidden;
 }
 p {
   text-indent: 30px;
   margin: 0;
 }
+
 @font-face {
   font-family: 'arial';
   font-style: normal;
