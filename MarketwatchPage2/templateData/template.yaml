@@ -1,0 +1,81 @@
+---
+date:
+  type: text
+  css:
+    left: 0.4in
+    top: 0.2in
+    position: absolute
+    width: 8in
+    height: 0.3in
+    lineHeight: "1"
+    fontSize: 16px
+    fontFamily: calibriBold
+    zIndex: 3
+name:
+  type: text
+  css:
+    left: 0.4in
+    top: 2.9in
+    position: absolute
+    width: 8in
+    height: 0.3in
+    lineHeight: "1"
+    fontSize: 16px
+    fontFamily: times-new-roman-bold
+    zIndex: 3
+highlight:
+  type: text
+  css:
+    left: 0.4in
+    top: 3.3in
+    position: absolute
+    width: 8in
+    height: 0.5in
+    lineHeight: "1"
+    fontSize: 22px
+    fontFamily: times-new-roman-bold
+    color: '#063d71'
+    zIndex: 3
+signatureImg:
+  type: img
+  css:
+    left: 0.4in
+    top: 8.5in
+    position: absolute
+    width: 1in
+    height: 0.5in
+    zIndex: 3
+textarea:
+  type: text
+  css:
+    left: 0.4in
+    top: 3.8in
+    position: absolute
+    width: 8in
+    height: 4.7in
+    fontSize: 16px
+    fontFamily: calibri
+    zIndex: 3
+nameAddress:
+  type: text
+  css:
+    left: 0.4in
+    top: 9.2in
+    position: absolute
+    width: 8in
+    height: 0.3in
+    fontSize: 16px
+    color: '#063d71'
+    fontFamily: calibriBold
+    zIndex: 3
+footerText:
+  type: text
+  css:
+    left: 0.4in
+    top: 10in
+    position: absolute
+    width: 8in
+    height: 0.3in
+    fontSize: 16px
+    fontFamily: calibriBold
+    zIndex: 3

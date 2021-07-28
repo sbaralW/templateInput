@@ -1,0 +1,25 @@
+body {
+  width: 8.5in;
+  height: 11in;
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+  font-family: 'calibri';
+  font-style: normal;
+  vertical-align: middle;
+  src: url('../font/calibri.ttf');
+}
+@font-face {
+  font-family: 'calibriBold';
+  font-style: normal;
+  vertical-align: middle;
+  src: url('../font/calibrib.ttf');
+}
+@font-face {
+  font-family: 'times-new-roman-bold';
+  font-style: normal;
+  vertical-align: middle;
+  src: url('../font/times-new-roman-bold.otf');
+}
+
